@@ -6,7 +6,7 @@
 
 I am Lucas Daniel, i'm 18 years old, i'm graduating with a Computer Science and i'm currently work as a Backend Dev.
 
-![Lucas Daniel's github stats](https://github-readme-stats.vercel.app/api?username=LucasDanielLD&show_icons=true&hide=["issues"]&&theme=tokyonight)
+![Lucas Daniel's github stats](https://github-readme-stats.vercel.app/api?username=LucasDanielLD&show_icons=true&hide=["issues"]&&theme=dark)
 
 
 ## I like it! 🖥️ 
@@ -14,7 +14,7 @@ I am Lucas Daniel, i'm 18 years old, i'm graduating with a Computer Science and 
 * Data Science
 * Backend Web Development
 
-![Lucas Daniel's languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDanielLD&layout=compact&&theme=tokyonight)
+![Lucas Daniel's languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDanielLD&layout=compact&&theme=dark)
 
  
  ## Who am I? 🤔
