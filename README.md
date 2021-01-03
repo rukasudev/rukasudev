@@ -8,15 +8,6 @@ I am Lucas Daniel, i'm 18 years old, i'm graduating in Computer Science and i'm 
 
 ![Lucas Daniel's github stats](https://github-readme-stats.vercel.app/api?username=LucasDanielLD&hide=["issues"]&&theme=react)
 
-
-## I like it! 🖥️ 
-* Machine Learning
-* Data Science
-* Backend Web Development
-
-![Lucas Daniel's languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDanielLD&layout=compact&&theme=react)
-
- 
  ## Who am I? 🤔
  ```python
 class Lucas:
@@ -45,7 +36,15 @@ if __name__ == '__main__':
 	
  ```
  
+## I like it! 🖥️ 
+* Machine Learning
+* Data Science
+* Backend Web Development
+
+![Lucas Daniel's languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDanielLD&layout=compact&&theme=react)
+
+ 
+
 ## Current Works 
+
  * I'm currently working on 🚀 building **Space Seeker Game** and working up on polishing my skills 🌱 in **Competitive Programming**.
-
-
