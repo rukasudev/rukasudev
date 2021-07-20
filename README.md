@@ -14,7 +14,7 @@ class Lucas:
 
     def __init__(self):
         self.name = 'Lucas Daniel'
-        self.years = '18'
+        self.years = '19'
         self.web = 'https://www.linkedin.com/in/lucasdanielld/'
         self.study= 'Computer Science'
         self.code = {
