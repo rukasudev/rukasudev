@@ -6,7 +6,7 @@
 
 My name is Lucas Daniel and i'm 19 years old. I'm majoring in Computer Science and i'm currently working as a Backend Dev.
 
-![Lucas Daniel's github stats](https://github-readme-stats.vercel.app/api?username=LucasDanielLD&hide=["issues"]&&theme=react)
+![Lucas Daniel's github stats](https://github-readme-stats.vercel.app/api?username=ldanielx&hide=["issues"]&&theme=react)
 
  ## Who am I? 🤔
  ```python
@@ -41,7 +41,7 @@ if __name__ == '__main__':
 * Data Science
 * Backend Web Development
 
-![Lucas Daniel's languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDanielLD&layout=compact&&theme=react)
+![Lucas Daniel's languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ldanielx&layout=compact&&theme=react)
 
  
 
