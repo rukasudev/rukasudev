@@ -5,11 +5,6 @@
 [![Discord User](https://img.shields.io/static/v1?message=rukasu%237777&logo=discord&labelColor=2C2F33&color=2C2F33&logoColor=white&label=%20)](https://discord.com/users/313482787149840394)
 [![Spotify User](https://img.shields.io/static/v1?message=Lucas&logo=spotify&labelColor=1ed760&color=1ed760&logoColor=white&label=%20)](https://open.spotify.com/user/p2bq4wehhufkz6vhsp7d6jpzk?si=0yErVtAjRA-LI-r6O1Hj8A)
 
-
-My name is Lucas Daniel and i'm 19 years old. I'm majoring in Computer Science and i'm currently working as a Backend Dev.
-
-![Lucas Daniel's github stats](https://github-readme-stats.vercel.app/api?username=ldanielx&hide=["issues"]&&theme=react)
-
  ## Who am I? 🤔
  ```python
 class Lucas:
@@ -37,11 +32,7 @@ if __name__ == '__main__':
 	
  ```
  
-## I like it! 🖥️ 
-* Machine Learning
-* Data Science
-* Backend Web Development
-
+![Lucas Daniel's github stats](https://github-readme-stats.vercel.app/api?username=ldanielx&hide=["issues"]&&theme=react)
 ![Lucas Daniel's languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rukasudev&layout=compact&&theme=react)
 
  
