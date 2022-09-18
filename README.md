@@ -1,5 +1,4 @@
-### Hi 👋, I'm Lucas Daniel!
-
+### Hi 👋
 
 [![Gmail Badge](https://img.shields.io/static/v1?message=contact@rukasudev.me&logo=gmail&labelColor=C14438&color=C14438&logoColor=white&label=%20)](mailto:lucasdanielbarradas@gmail.com) 
 [![Discord User](https://img.shields.io/static/v1?message=rukasu%237777&logo=discord&labelColor=2C2F33&color=2C2F33&logoColor=white&label=%20)](https://discord.com/users/313482787149840394)
