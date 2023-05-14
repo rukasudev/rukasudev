@@ -2,7 +2,7 @@ name: Update Age
 
 on:
   schedule:
-    - cron: "0 0 1 1 *" # Run every year
+    - cron: "0 0 4 1 *" # Run the action every year on Jan 4th
 
   workflow_dispatch:
 
