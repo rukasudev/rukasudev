@@ -16,7 +16,7 @@ jobs:
 
       - name: Update README
         run: |
-          sed -i "s/self.age = '.*'/self.age = '$(expr $(date +%Y) - 2002)'/" README.md
+          sed -i "s/self\.age = '.*/self.age = '$(expr $(date +%Y) - 1990)'/" README.md
           git config user.name github-actions
           git config user.email github-actions@github.com
           git commit -am "Update age in readme"
