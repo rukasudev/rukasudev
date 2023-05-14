@@ -4,6 +4,8 @@ on:
   schedule:
     - cron: "0 0 1 1 *" # Run every year
 
+  workflow_dispatch:
+
 jobs:
   update_age:
     runs-on: ubuntu-latest
