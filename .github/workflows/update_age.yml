@@ -1,0 +1,21 @@
+name: Update Age
+
+on:
+  schedule:
+    - cron: "0 0 1 1 *" # Run every year
+
+jobs:
+  update_age:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Set up Git repository
+        uses: actions/checkout@v2
+
+      - name: Update README
+        run: |
+          sed -i "s/self.age = '.*'/self.age = '$(expr $(date +%Y) - 2002)'/" README.md
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git commit -am "Update age in readme"
+          git push
