@@ -40,7 +40,7 @@ if __name__ == '__main__':
 
 ## My contributions 🧐
 
-![Snake animation](https://github.com/rukasudev/rukasudev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rukasudev/rukasudev/blob/output/github-contribution-grid-snake.gif)
 
 ## Current Works
 
