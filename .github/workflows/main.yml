@@ -12,22 +12,13 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-      - uses: Platane/snk@master
-        id: snake-gif
+
+      - uses: Platane/snk@v3
         with:
           github_user_name: rukasudev
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
-      - run: git status
+          outputs: dist/snake.svg
 
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
-          force: true
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
