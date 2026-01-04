@@ -11,7 +11,7 @@ class Lucas:
 
    def __init__(self):
        self.name = 'Lucas Daniel'
-       self.age = '23'
+       self.age = '24'
        self.study = 'Computer Science'
        self.code = {
            'frontend': ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'ReactJS', 'VueJS', 'Styled-Components', 'SASS'],
